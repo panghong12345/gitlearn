@@ -1,3 +1,1 @@
-git init
-first modify
-second
+git learninit init
