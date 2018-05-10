@@ -1,3 +1,3 @@
 add color file initial
 modify color file once
-modify color file twice  on Github
+modify color file twice on Github
